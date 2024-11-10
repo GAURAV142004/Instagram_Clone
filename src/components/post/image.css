@@ -1,0 +1,12 @@
+.ppp {
+  position: relative !important;
+  z-index: 1;
+}
+
+.line-likes {
+  position: absolute;
+  width: 100%;
+  top: 45%;
+  left: 30%;
+  z-index: 55;
+}
