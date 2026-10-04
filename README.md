@@ -1,15 +1,22 @@
-# Instagram Clone — Legacy Project
+# Instagram Clone — Legacy Full-Stack Project
 
-> 🗃️ **Status: Archived learning project**
+> 🗃️ **Status: Legacy learning project**
 >
-> An earlier social-media UI/application project preserved as part of my learning history. It is **not actively maintained** and should not be treated as a representation of my current production engineering stack.
+> An earlier social-media application built while learning full-stack web development, routing, authentication, data models and REST-style backend structure.
+
+## What it demonstrates
+
+- Frontend application development
+- Backend API structure
+- Authentication and middleware concepts
+- Database-backed models and routes
 
 ## Portfolio context
 
-This repository belongs to an earlier stage of my software-development journey. My current focus is on **enterprise automation, backend/API engineering, AI systems and cloud technologies**.
+This repository is preserved as part of my earlier development journey. It is **not actively maintained** and is no longer representative of my current engineering focus.
 
-The repository remains available as a record of that progression rather than as an actively developed product.
+My current focus is **software engineering, enterprise automation, backend/API development, AI systems and cloud technologies**.
 
----
+## Current status
 
-**Current status:** 🗃️ Legacy / no active development
+🗃️ Legacy learning project — no active development planned.
